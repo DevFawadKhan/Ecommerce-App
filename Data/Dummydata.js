@@ -1,0 +1,35 @@
+export const items=[
+    {
+        _id:1,
+        name:"Mobile",
+        path:"Mobile",
+        icon:"smartphone"
+      },
+    {
+  _id:2,
+  name:"Laptop",
+  path:"Laptop",
+  icon:"laptop"
+},
+{
+    _id:3,
+    name:"Desktop",
+    path:"Desktop",
+    icon:"computer"
+  },{
+    _id:4,
+    name:"Tablet",
+    path:"Tablet",
+    icon:"tablet"
+  },{
+    _id:5,
+    name:"Headphone",
+    path:"Headphone",
+    icon:"headphones"
+  },{
+    _id:6,
+    name:"Accessories",
+    path:"Accessories",
+    icon:"list"
+  },
+]
